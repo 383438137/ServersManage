@@ -1,0 +1,6 @@
+G:\project\ServersManage\bin\Debug\ServersManage.dll.config
+G:\project\ServersManage\bin\Debug\ServersManage.dll
+G:\project\ServersManage\bin\Debug\ServersManage.pdb
+G:\project\ServersManage\obj\Debug\ServersManage.csprojResolveAssemblyReference.cache
+G:\project\ServersManage\obj\Debug\ServersManage.dll
+G:\project\ServersManage\obj\Debug\ServersManage.pdb

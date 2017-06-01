@@ -1,0 +1,8 @@
+E:\project\ServersManage\bin\Release\Tools.dll
+E:\project\ServersManage\bin\Release\Tools.pdb
+E:\project\ServersManage\bin\Release\log4net.dll
+E:\project\ServersManage\bin\Release\System.Data.SQLite.dll
+E:\project\ServersManage\bin\Release\System.Xml.dll
+E:\project\ServersManage\bin\Release\System.Xml.Linq.dll
+E:\project\ServersManage\obj\Release\Tools.dll
+E:\project\ServersManage\obj\Release\Tools.pdb
